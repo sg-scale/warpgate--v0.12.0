@@ -213,10 +213,10 @@
   dependencies:
     levn "^0.4.1"
 
-"@fontsource/work-sans@^4.5.12":
-  version "4.5.14"
-  resolved "https://registry.yarnpkg.com/@fontsource/work-sans/-/work-sans-4.5.14.tgz#965bf103baa9f812d042b5f678a34f632fa76f2e"
-  integrity sha512-AFBSDBA3hnSCXHwb52qBOMEGqF5nfdbANp+y5/hbE1PMjYfFY0lUdtUwL5J7mRAdyn1NJwobJlhduHtlAyPzmA==
+"@fontsource/work-sans@^5.3.0":
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/work-sans/-/work-sans-5.3.0.tgz#489bbc8d6910fcd551a69b43fcf1d905c8a54f59"
+  integrity sha512-3cKV28+bEiLGdyOl0VgEGCFWE1XdZJu/K+nH4Jt76XC3T//XrRtm2EF7jA61GSMIy8sYp6ZFTE01nD3lLaBV9A==
 
 "@fortawesome/fontawesome-common-types@6.7.1":
   version "6.7.1"
